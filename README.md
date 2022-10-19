@@ -1,7 +1,7 @@
 ### Oláaa! Eu sou o Brayan 
 
 - 🔭 Focando em trabalhar com front-end 
-- 🌱 estudando javaScript
+- 🌱 estudando JavaScript
 - 📫 contate-me: brayanescout@gmail.com
 - 😄 Pronomes: ele/dele
 
