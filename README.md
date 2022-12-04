@@ -3,7 +3,7 @@
 - 🔭 Focando em trabalhar com front-end 
 - 🌱 estudando JavaScript
 - 📫 contate-me: brayanescout@gmail.com
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/BraiyaGhst">
