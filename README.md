@@ -2,7 +2,7 @@
 
 - 🔭 Focando em trabalhar com front-end 
 - 🌱 estudando JavaScript
-- 📫 contate-me: brayanescout@gmail.com
+- 📫 contate-me: brayanescouto.bandeira@hotmail.com
 
 
 <div align="center">
