@@ -1,7 +1,5 @@
 ### Oláaa! Eu sou o Brayan 
-
-- 🔭 Focando em trabalhar com front-end 
-- 🌱 estudando JavaScript
+- 🌱 DEV Full-Stack
 - 📫 contate-me: brayanescouto.bandeira@hotmail.com
 
 
